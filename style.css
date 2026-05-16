@@ -1,0 +1,101 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.spanclass{
+color: aliceblue;
+}
+
+
+#hero{
+    background-color: #070320;
+color: aliceblue;
+
+}
+
+.continer{
+    width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.div-text{
+   display: inline-block;
+   width: 271px;
+margin-top: 93px;
+
+}
+
+.img-hero{
+     display: inline-block;
+     vertical-align: middle;
+     padding-left: 246px;
+     padding-bottom: 200px;
+     width: 639px;
+     height: 556px;
+
+}
+
+button {
+color: white;
+background-color: orangered;
+border-radius: 10px;
+border: 2px solid orange;
+}
+
+.div-text h1{
+vertical-align: middle;
+font-size: 23px;
+}
+
+.div-text p{
+margin-top: 20px;
+font-size: 20px;
+}
+
+.div-text button{
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+header {
+  background-color: #070320;
+  padding-bottom: 26px;
+  padding-top: 26px;
+}
+.continer {
+  width: 1301px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ul {
+  display: inline-block;
+  margin-left: 673.77px;
+}
+
+.ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+li a {
+  color: aliceblue;
+}
+
+button {
+  padding: 10px 40px;
+  border-radius: 20px;
+  border: 2px solid white;
+  background-color: transparent;
+  color: aliceblue;
+}
